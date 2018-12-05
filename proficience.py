@@ -1,5 +1,4 @@
 import time
-import string
 #sinav sonuclari pt1 %10 mte %20 pt2 %15 ete %25
 #speaking portfolio %10 writing %15 te %5
 pt1 = int(input("Progress 1 testinin sonucunu giriniz. "))
